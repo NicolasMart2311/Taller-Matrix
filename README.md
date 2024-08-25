@@ -1,5 +1,5 @@
 Taller Mtrices Dinamicas:
-+Juan David Delgado 
-+Nicolas Martin
++ Juan David Delgado 
++ Nicolas Martin
 
 
