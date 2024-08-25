@@ -1,4 +1,5 @@
 Taller Mtrices Dinamicas:
--Juan David Delgado 
-- 
++Juan David Delgado 
++Nicolas Martin
+
 
